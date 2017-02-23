@@ -2,209 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2d90fa-95c1-4bb9-baee-57df3c719abc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/Logo_SiFAST.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logo-sifast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/fonts/DroidSans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/fonts/DroidSans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/collapse.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/expand.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/explorer_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/pet_store_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/images/wordnik_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/fonts/DroidSans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/fonts/DroidSans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/collapse.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/expand.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/explorer_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/pet_store_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/images/wordnik_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/fos/fos_rest.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/database/socle-symfony2-PFE-21-02-2017.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/environnement-integration.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/EventListener/CorsListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logosifast.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/css/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/translator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/handlebars-2.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/highlight.7.3.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/jquery-1.8.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/jquery.ba-bbq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/jquery.slideto.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/jquery.wiggle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/jsoneditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/swagger-oauth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/lib/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/o2c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/swagger-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/dist/swagger-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/translator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/handlebars-2.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/highlight.7.3.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/jquery-1.8.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/jquery.ba-bbq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/jquery.slideto.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/jquery.wiggle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/jsoneditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/swagger-oauth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/lib/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/css/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/html/o2c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/SwaggerUi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/doc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/helpers/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/ApiKeyButton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/BasicAuthButton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/ContentTypeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/HeaderView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/MainView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/OperationView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/ParameterContentTypeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/ParameterView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/ResourceView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/ResponseContentTypeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/SignatureView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/javascript/view/StatusCodeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/less/auth.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/less/highlight_default.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/less/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/less/screen.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/less/specs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/less/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/apikey_button_view.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/basic_auth_button_view.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/content_type.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/main.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/operation.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/param.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/param_list.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/param_readonly.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/param_readonly_required.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/param_required.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/parameter_content_type.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/resource.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/response_content_type.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/signature.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/src/main/template/status_code.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/e2e/driver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/e2e/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/e2e/servers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/e2e/v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/e2e/v2/petstore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/specs/v1.2/petstore/api-docs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/specs/v1.2/petstore/pet.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/specs/v1.2/petstore/store.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/specs/v1.2/petstore/user.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/swagger-ui/test/specs/v2/petstore.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/logs/.gitkeep" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/.gitkeep" afterPath="$PROJECT_DIR$/app/cache/.gitkeep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/apple-touch-icon.png" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/favicon.ico" afterPath="$PROJECT_DIR$/web/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/socle_symfony2_PFE.iml" afterPath="$PROJECT_DIR$/.idea/socle_symfony2_PFE.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UPGRADE-2.2.md" afterPath="$PROJECT_DIR$/UPGRADE-2.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UPGRADE-2.3.md" afterPath="$PROJECT_DIR$/UPGRADE-2.3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UPGRADE-2.4.md" afterPath="$PROJECT_DIR$/UPGRADE-2.4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UPGRADE-2.8.md" afterPath="$PROJECT_DIR$/UPGRADE-2.8.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UPGRADE.md" afterPath="$PROJECT_DIR$/UPGRADE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.htaccess" afterPath="$PROJECT_DIR$/app/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppCache.php" afterPath="$PROJECT_DIR$/app/AppCache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/SymfonyRequirements.php" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/autoload.php" afterPath="$PROJECT_DIR$/app/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/check.php" afterPath="$PROJECT_DIR$/app/check.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_dev.yml" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_prod.yml" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config_test.yml" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/fos/fos_user.yml" afterPath="$PROJECT_DIR$/app/config/fos/fos_user.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml.dist" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing_dev.yml" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/services.yml" afterPath="$PROJECT_DIR$/app/config/services.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/sonata/sonata_block.yml" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_block.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/sonata/sonata_user.yml" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_user.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/phpunit.xml.dist" afterPath="$PROJECT_DIR$/app/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/.htaccess" afterPath="$PROJECT_DIR$/src/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Admin/BlogPostAdmin.php" afterPath="$PROJECT_DIR$/src/AppBundle/Admin/BlogPostAdmin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Admin/CategoryAdmin.php" afterPath="$PROJECT_DIR$/src/AppBundle/Admin/CategoryAdmin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" afterPath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Tests/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/src/AppBundle/Tests/Controller/DefaultControllerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/.htaccess" afterPath="$PROJECT_DIR$/web/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app.php" afterPath="$PROJECT_DIR$/web/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app_dev.php" afterPath="$PROJECT_DIR$/web/app_dev.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/robots.txt" afterPath="$PROJECT_DIR$/web/robots.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -341,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/config/sonata/sonata_block.yml" />
         <option value="$PROJECT_DIR$/app/config/security.yml" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/composer.lock" />
@@ -392,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/AppBundle/Tests/Controller/UserRestControllerTest.php" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/AppBundle/Controller/UserRestController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -711,12 +509,12 @@
       <workItem from="1487670829381" duration="8722000" />
       <workItem from="1487750031169" duration="25632000" />
       <workItem from="1487836315381" duration="4338000" />
-      <workItem from="1487840875659" duration="1465000" />
+      <workItem from="1487840875659" duration="1865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248542000" />
+    <option name="totallyTimeSpent" value="248942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -729,7 +527,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="24" width="1853" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23962368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -737,7 +535,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958494" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29227558" sideWeight="0.49363586" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29227558" sideWeight="0.49363586" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -782,7 +580,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/swagger/api_routes.yml" />
     <entry file="file://$PROJECT_DIR$/app/config/sonata/swagger.yml" />
     <entry file="file://$PROJECT_DIR$/app/config/swagger_api/api_routes.yml" />
     <entry file="file://$PROJECT_DIR$/app/config/fos/api_routes.yml" />
@@ -1114,6 +911,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
