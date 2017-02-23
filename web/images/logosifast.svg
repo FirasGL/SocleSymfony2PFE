@@ -1,0 +1,9 @@
+<svg id="logo" version="1.1" xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 175 55" cursor="pointer">
+  <path id="SI" fill="rgb(240,100,40)" stroke="none" fill-rule="evenodd" d="M0,55 v-35 a20,20 0 0 1 20,-20 h45 v35 a20,20 0 0 1 -20,20 z     M10,45 h17 a14,14 0 0 0 14,-14 v-7 h-24 a7,7 0 0 1 7,-7 h17 v-7 h-17 a14,14 0 0 0 -14,14 v7 h24 a7,7 0 0 1 -7,7 h-17 z     M48,10 h7 v7 h-7 z   M65,24 v7 h-10 v0 a12,14 0 0 1 -14,14 h-1 a12,14 0 0 0 8,-14 v-7 z"></path>
+  <g id="FAST" fill="rgb(0,100,185)" stroke="none">
+    <path id="F" d="M74,45 v-28 a7,7 0 0 1 7,-7 h17 l-1,7 h-14 a2,2 0 0 0 -2,2 v5 h12.75 l-1,7 h-11.75 v14 z"></path>
+    <path id="A" d="M93.5,45 l9.5,-30 a6.5,8.25 0 0 1 12,0 l9.5,30 h-7 l-8.5,-28 l-8.5,28 z  M102,29 h16 v7 h-16 z"></path>
+    <path id="S" d="M128.25,38 l1,7 h12.5 a10.5,10.5 0 0 0 0,-21 h-7 a3.5,3.5 0 0 1 0,-7 h11 v-7 h-11.25 a10.5,10.5 0 0 0 0,21 h6.85 a3.5,3.5 0 0 1 0,7 z"></path>
+    <path id="T" d="M150.5,10 v7 h8.75 v28 h7 v-28 h8.75 v-7 z"></path>
+  </g>
+</svg>

@@ -16,11 +16,24 @@
         "symfony/monolog-bundle": "^3.0.2",
         "sensio/distribution-bundle": "~5.0",
         "sensio/framework-extra-bundle": "^3.0.2",
-        "incenteev/composer-parameter-handler": "~2.0"
+        "incenteev/composer-parameter-handler": "~2.0",
+        "doctrine/doctrine-fixtures-bundle": "^2.3",
+        "sonata-project/admin-bundle": "3.1.0",
+        "sonata-project/doctrine-orm-admin-bundle": "^3.1",
+        "sonata-project/easy-extends-bundle": "^2.1",
+        "sonata-project/user-bundle": "^3.2",
+        "zircote/swagger-php": "^2.0",
+        "phpunit/phpunit": "^4.8",
+        "fr3d/swagger-assertions": "^0.6.0",
+        "activelamp/swagger-ui-bundle": "dev-master",
+        "friendsofsymfony/rest-bundle": "^2.1",
+        "jms/serializer": "^0.13"
     },
     "require-dev": {
         "sensio/generator-bundle": "~3.0",
-        "symfony/phpunit-bridge": "~2.7"
+        "symfony/phpunit-bridge": "~2.7",
+        "timeinc/swagger-bundle": "^0.2.0",
+        "liip/functional-test-bundle": "^1.6"
     },
     "scripts": {
         "symfony-scripts": [
@@ -41,7 +54,7 @@
     "config": {
         "bin-dir": "bin",
         "platform": {
-            "php": "5.3.9"
+            "php": "5.5.9"
         }
     },
     "extra": {

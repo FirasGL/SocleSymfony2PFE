@@ -32,3 +32,25 @@ monolog:
 
 #swiftmailer:
 #    delivery_addresses: ['me@example.com']
+
+swagger:
+    version: '2.0'                    # Swagger version
+    host: 'socle-symfony2-pfe.local'
+    base_path: '/app_dev.php'
+    info:
+        title: 'Socle Symfony2 PFE API'
+        version: '1.0.0'
+        description: 'Documented API for Socle symfony2'
+    schemes:
+        - http
+        - https
+    produces:
+        - application/json
+    consumes:
+        - application/json
+    annotations:
+        bundles:
+        - AppBundle
+        paths:
+            - '%kernel.root_dir%/../src/Application/Sonata/UserBundle'
+
