@@ -1,7 +1,7 @@
 sonata_admin:
     templates:
         layout:               SonataAdminBundle::standard_layout.html.twig
-    title:                Socle Symfony 2
+    title:                Socle Symfony
     title_logo:           images/logosifast.svg
     options:
         html5_validate:                         true      # use html5 validation

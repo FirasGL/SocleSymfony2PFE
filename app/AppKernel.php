@@ -15,7 +15,6 @@ class AppKernel extends Kernel
             new Symfony\Bundle\SwiftmailerBundle\SwiftmailerBundle(),
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-            //new JMS\Serializer\JMSSerializerBundle(),
             new AppBundle\AppBundle(),
 
             //SonataAdminBundle requirements
@@ -34,6 +33,13 @@ class AppKernel extends Kernel
             //Swagger requirements
             new FOS\RestBundle\FOSRestBundle(),
 
+            //SonataMediaBundle requirements
+            new Sonata\IntlBundle\SonataIntlBundle(),
+            new Sonata\MediaBundle\SonataMediaBundle(),
+            new Sonata\ClassificationBundle\SonataClassificationBundle(),
+            new Application\Sonata\ClassificationBundle\ApplicationSonataClassificationBundle(),
+            new Application\Sonata\MediaBundle\ApplicationSonataMediaBundle(),
+
 
 
 
@@ -47,7 +53,6 @@ class AppKernel extends Kernel
             //Swagger requirements
             $bundles[] = new TimeInc\SwaggerBundle\SwaggerBundle();
 
-            $bundles[] = new Liip\FunctionalTestBundle\LiipFunctionalTestBundle();
         }
 
         return $bundles;

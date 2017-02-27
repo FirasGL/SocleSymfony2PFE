@@ -10,6 +10,9 @@ imports:
     - { resource: sonata/sonata_user.yml }
     #Swagger requirements
     - { resource: fos/fos_rest.yml }
+    #SonataMediaBundle requirements
+    - { resource: sonata/sonata_media.yml }
+    - { resource: sonata/sonata_classification.yml}
 
 
 parameters:
@@ -64,8 +67,21 @@ doctrine:
 
     orm:
         auto_generate_proxy_classes: "%kernel.debug%"
-        naming_strategy: doctrine.orm.naming_strategy.underscore
-        auto_mapping: true
+        #naming_strategy: doctrine.orm.naming_strategy.underscore
+
+        entity_managers:
+            default:
+                auto_mapping: true
+                mappings:
+                    FOSUserBundle: ~
+                    ApplicationSonataUserBundle: ~
+                    SonataUserBundle: ~
+                    SonataMediaBundle: ~
+                    SonataClassificationBundle: ~
+                    ApplicationSonataClassificationBundle: ~
+                    #ApplicationSonataMediaBundle: ~
+
+
 
 # Swiftmailer Configuration
 swiftmailer:

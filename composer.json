@@ -27,7 +27,10 @@
         "fr3d/swagger-assertions": "^0.6.0",
         "activelamp/swagger-ui-bundle": "dev-master",
         "friendsofsymfony/rest-bundle": "^2.1",
-        "jms/serializer": "^0.13"
+        "jms/serializer": "^0.13",
+        "sonata-project/media-bundle": "^3.3",
+        "sonata-project/classification-bundle": "^3.2",
+        "imagine/imagine":"^0.4"
     },
     "require-dev": {
         "sensio/generator-bundle": "~3.0",

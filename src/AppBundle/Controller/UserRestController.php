@@ -2,7 +2,7 @@
 
 namespace AppBundle\Controller;
 
-    use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 use Swagger\Annotations as SWG;
 
@@ -86,8 +86,6 @@ class UserRestController extends Controller
 //            'password'=> $request->get('password'),
 //        );
 //    }
-
-
 
 
 

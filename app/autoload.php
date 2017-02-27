@@ -8,4 +8,6 @@ $loader = require __DIR__.'/../vendor/autoload.php';
 
 AnnotationRegistry::registerLoader(array($loader, 'loadClass'));
 
+$loader->add("Application", __DIR__.'/src/Application');
+
 return $loader;
