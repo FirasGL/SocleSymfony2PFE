@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2d90fa-95c1-4bb9-baee-57df3c719abc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_classification.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_media.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/ApplicationSonataClassificationBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Document/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Document/Tag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Context.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Tag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Category.mongodb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Category.orm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Collection.orm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Context.orm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Tag.mongodb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Tag.orm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Document.Category.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Document.Tag.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Entity.Category.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Entity.Collection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Entity.Context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Entity.Tag.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/ApplicationSonataMediaBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Document/Gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Document/Media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Entity/Gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Entity/GalleryHasMedia.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Entity/Media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/PHPCR/Gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/PHPCR/GalleryHasMedia.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/PHPCR/GalleryHasMediaRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/PHPCR/GalleryRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/PHPCR/Media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/PHPCR/MediaRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Gallery.mongodb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Gallery.orm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Gallery.phpcr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/GalleryHasMedia.orm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/GalleryHasMedia.phpcr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Media.mongodb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Media.orm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Media.phpcr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Document.Gallery.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Document.GalleryHasMedia.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Document.Media.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Entity.Gallery.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Entity.GalleryHasMedia.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Entity.Media.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/swagger-editor.zip" afterPath="$PROJECT_DIR$/swagger-editor.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/images/Logo_SiFAST.png" afterPath="$PROJECT_DIR$/web/images/Logo_SiFAST.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/images/logo-sifast.png" afterPath="$PROJECT_DIR$/web/images/logo-sifast.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/socle_symfony2_PFE.iml" afterPath="$PROJECT_DIR$/.idea/socle_symfony2_PFE.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/autoload.php" afterPath="$PROJECT_DIR$/app/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/fos/fos_rest.yml" afterPath="$PROJECT_DIR$/app/config/fos/fos_rest.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/Dockerfile" afterPath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/Dockerfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/database/socle-symfony2-PFE-21-02-2017.sql" afterPath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/database/socle-symfony2-PFE-21-02-2017.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/environnement-integration.yml" afterPath="$PROJECT_DIR$/socle-symfony2-infrastructure/environnement_integration/environnement-integration.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/UserRestController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/UserRestController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Default/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/config.php" afterPath="$PROJECT_DIR$/web/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/images/logosifast.svg" afterPath="$PROJECT_DIR$/web/images/logosifast.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/swagger.json" afterPath="$PROJECT_DIR$/web/swagger.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -639,12 +572,12 @@
       <workItem from="1487952763400" duration="3116000" />
       <workItem from="1488182085495" duration="257000" />
       <workItem from="1488183056086" duration="2809000" />
-      <workItem from="1488190060733" duration="459000" />
+      <workItem from="1488190060733" duration="671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292376000" />
+    <option name="totallyTimeSpent" value="292588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
